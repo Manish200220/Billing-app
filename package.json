@@ -1,5 +1,6 @@
 {
   "name": "billing-app",
+  "homepage": "https://Manish200220.github.io/Billing-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,5 +30,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
