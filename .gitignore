@@ -1,0 +1,49 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage
+*.lcov
+
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+dist/
+.tmp/
+.temp/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Parcel cache
+.cache/
+.parcel-cache/
+
+# Next.js / Gatsby / Nuxt (if ever used)
+.next/
+.out/
+.nuxt/
+
+# Misc
+*.tgz
+*.tsbuildinfo
