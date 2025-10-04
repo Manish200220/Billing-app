@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Billing-app/static/js/main.9f6a6338.js",
+    "main.js": "/Billing-app/static/js/main.b28364e1.js",
     "static/js/239.efcd9f7e.chunk.js": "/Billing-app/static/js/239.efcd9f7e.chunk.js",
     "static/js/389.b72c89c9.chunk.js": "/Billing-app/static/js/389.b72c89c9.chunk.js",
     "static/js/159.ee7def93.chunk.js": "/Billing-app/static/js/159.ee7def93.chunk.js",
     "static/js/977.e3f6dbc6.chunk.js": "/Billing-app/static/js/977.e3f6dbc6.chunk.js",
     "static/js/455.976b43a7.chunk.js": "/Billing-app/static/js/455.976b43a7.chunk.js",
     "index.html": "/Billing-app/index.html",
-    "main.9f6a6338.js.map": "/Billing-app/static/js/main.9f6a6338.js.map",
+    "main.b28364e1.js.map": "/Billing-app/static/js/main.b28364e1.js.map",
     "239.efcd9f7e.chunk.js.map": "/Billing-app/static/js/239.efcd9f7e.chunk.js.map",
     "389.b72c89c9.chunk.js.map": "/Billing-app/static/js/389.b72c89c9.chunk.js.map",
     "159.ee7def93.chunk.js.map": "/Billing-app/static/js/159.ee7def93.chunk.js.map",
@@ -15,6 +15,6 @@
     "455.976b43a7.chunk.js.map": "/Billing-app/static/js/455.976b43a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9f6a6338.js"
+    "static/js/main.b28364e1.js"
   ]
 }
